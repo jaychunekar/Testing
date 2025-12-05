@@ -1,0 +1,133 @@
+Date,Day,Hotel_Name,Location,Room_Type,Base_Price,Final_Price,Currency,Amenities,Max_Capacity,Availability
+2025-12-20,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Deluxe Ocean View,189.0,235.6,EUR,"King Bed, Private Balcony, Sea View, Mini Bar, Smart TV",2,Available
+2025-12-21,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Deluxe Ocean View,189.0,186.41,EUR,"King Bed, Private Balcony, Sea View, Mini Bar, Smart TV",2,Available
+2025-12-22,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Deluxe Ocean View,189.0,190.1,EUR,"King Bed, Private Balcony, Sea View, Mini Bar, Smart TV",2,Available
+2025-12-23,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Deluxe Ocean View,189.0,195.0,EUR,"King Bed, Private Balcony, Sea View, Mini Bar, Smart TV",2,Available
+2025-12-24,Wednesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Deluxe Ocean View,189.0,260.6,EUR,"King Bed, Private Balcony, Sea View, Mini Bar, Smart TV",2,Available
+2025-12-25,Thursday,Seaside Paradise Resort,"Dublin Bay, Ireland",Deluxe Ocean View,189.0,259.22,EUR,"King Bed, Private Balcony, Sea View, Mini Bar, Smart TV",2,Available
+2025-12-26,Friday,Seaside Paradise Resort,"Dublin Bay, Ireland",Deluxe Ocean View,189.0,316.37,EUR,"King Bed, Private Balcony, Sea View, Mini Bar, Smart TV",2,Available
+2025-12-27,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Deluxe Ocean View,189.0,237.94,EUR,"King Bed, Private Balcony, Sea View, Mini Bar, Smart TV",2,Available
+2025-12-28,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Deluxe Ocean View,189.0,184.91,EUR,"King Bed, Private Balcony, Sea View, Mini Bar, Smart TV",2,Available
+2025-12-29,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Deluxe Ocean View,189.0,194.36,EUR,"King Bed, Private Balcony, Sea View, Mini Bar, Smart TV",2,Available
+2025-12-30,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Deluxe Ocean View,189.0,189.1,EUR,"King Bed, Private Balcony, Sea View, Mini Bar, Smart TV",2,Available
+2025-12-20,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Executive Suite,279.0,338.62,EUR,"2 Rooms, Jacuzzi, Full Kitchen, Panoramic Sea View, Wine Cellar",4,Available
+2025-12-21,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Executive Suite,279.0,268.67,EUR,"2 Rooms, Jacuzzi, Full Kitchen, Panoramic Sea View, Wine Cellar",4,Available
+2025-12-22,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Executive Suite,279.0,273.11,EUR,"2 Rooms, Jacuzzi, Full Kitchen, Panoramic Sea View, Wine Cellar",4,Available
+2025-12-23,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Executive Suite,279.0,285.87,EUR,"2 Rooms, Jacuzzi, Full Kitchen, Panoramic Sea View, Wine Cellar",4,Available
+2025-12-24,Wednesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Executive Suite,279.0,403.96,EUR,"2 Rooms, Jacuzzi, Full Kitchen, Panoramic Sea View, Wine Cellar",4,Available
+2025-12-25,Thursday,Seaside Paradise Resort,"Dublin Bay, Ireland",Executive Suite,279.0,379.16,EUR,"2 Rooms, Jacuzzi, Full Kitchen, Panoramic Sea View, Wine Cellar",4,Available
+2025-12-26,Friday,Seaside Paradise Resort,"Dublin Bay, Ireland",Executive Suite,279.0,488.38,EUR,"2 Rooms, Jacuzzi, Full Kitchen, Panoramic Sea View, Wine Cellar",4,Available
+2025-12-27,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Executive Suite,279.0,344.85,EUR,"2 Rooms, Jacuzzi, Full Kitchen, Panoramic Sea View, Wine Cellar",4,Available
+2025-12-28,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Executive Suite,279.0,271.05,EUR,"2 Rooms, Jacuzzi, Full Kitchen, Panoramic Sea View, Wine Cellar",4,Available
+2025-12-29,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Executive Suite,279.0,267.53,EUR,"2 Rooms, Jacuzzi, Full Kitchen, Panoramic Sea View, Wine Cellar",4,Available
+2025-12-30,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Executive Suite,279.0,269.91,EUR,"2 Rooms, Jacuzzi, Full Kitchen, Panoramic Sea View, Wine Cellar",4,Available
+2025-12-20,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Standard Double,129.0,162.52,EUR,"Double Bed, Garden View, Free WiFi, Work Desk, Coffee Maker",2,Limited
+2025-12-21,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Standard Double,129.0,135.22,EUR,"Double Bed, Garden View, Free WiFi, Work Desk, Coffee Maker",2,Limited
+2025-12-22,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Standard Double,129.0,123.89,EUR,"Double Bed, Garden View, Free WiFi, Work Desk, Coffee Maker",2,Limited
+2025-12-23,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Standard Double,129.0,128.71,EUR,"Double Bed, Garden View, Free WiFi, Work Desk, Coffee Maker",2,Limited
+2025-12-24,Wednesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Standard Double,129.0,179.08,EUR,"Double Bed, Garden View, Free WiFi, Work Desk, Coffee Maker",2,Limited
+2025-12-25,Thursday,Seaside Paradise Resort,"Dublin Bay, Ireland",Standard Double,129.0,178.24,EUR,"Double Bed, Garden View, Free WiFi, Work Desk, Coffee Maker",2,Limited
+2025-12-26,Friday,Seaside Paradise Resort,"Dublin Bay, Ireland",Standard Double,129.0,214.68,EUR,"Double Bed, Garden View, Free WiFi, Work Desk, Coffee Maker",2,Limited
+2025-12-27,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Standard Double,129.0,160.06,EUR,"Double Bed, Garden View, Free WiFi, Work Desk, Coffee Maker",2,Limited
+2025-12-28,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Standard Double,129.0,133.58,EUR,"Double Bed, Garden View, Free WiFi, Work Desk, Coffee Maker",2,Limited
+2025-12-29,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Standard Double,129.0,129.74,EUR,"Double Bed, Garden View, Free WiFi, Work Desk, Coffee Maker",2,Limited
+2025-12-30,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Standard Double,129.0,125.29,EUR,"Double Bed, Garden View, Free WiFi, Work Desk, Coffee Maker",2,Limited
+2025-12-20,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Family Room,219.0,261.35,EUR,"2 Double Beds, Living Area, Kitchenette, Play Zone, Netflix",5,Available
+2025-12-21,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Family Room,219.0,229.01,EUR,"2 Double Beds, Living Area, Kitchenette, Play Zone, Netflix",5,Available
+2025-12-22,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Family Room,219.0,210.81,EUR,"2 Double Beds, Living Area, Kitchenette, Play Zone, Netflix",5,Available
+2025-12-23,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Family Room,219.0,211.78,EUR,"2 Double Beds, Living Area, Kitchenette, Play Zone, Netflix",5,Available
+2025-12-24,Wednesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Family Room,219.0,313.86,EUR,"2 Double Beds, Living Area, Kitchenette, Play Zone, Netflix",5,Available
+2025-12-25,Thursday,Seaside Paradise Resort,"Dublin Bay, Ireland",Family Room,219.0,321.23,EUR,"2 Double Beds, Living Area, Kitchenette, Play Zone, Netflix",5,Available
+2025-12-26,Friday,Seaside Paradise Resort,"Dublin Bay, Ireland",Family Room,219.0,367.8,EUR,"2 Double Beds, Living Area, Kitchenette, Play Zone, Netflix",5,Available
+2025-12-27,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Family Room,219.0,261.97,EUR,"2 Double Beds, Living Area, Kitchenette, Play Zone, Netflix",5,Available
+2025-12-28,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Family Room,219.0,212.18,EUR,"2 Double Beds, Living Area, Kitchenette, Play Zone, Netflix",5,Available
+2025-12-29,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Family Room,219.0,214.96,EUR,"2 Double Beds, Living Area, Kitchenette, Play Zone, Netflix",5,Available
+2025-12-30,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Family Room,219.0,222.31,EUR,"2 Double Beds, Living Area, Kitchenette, Play Zone, Netflix",5,Available
+2025-12-20,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Presidential Suite,459.0,559.26,EUR,"3 Rooms, Private Pool, Butler Service, Spa, Rooftop Access",6,Limited
+2025-12-21,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Presidential Suite,459.0,450.28,EUR,"3 Rooms, Private Pool, Butler Service, Spa, Rooftop Access",6,Limited
+2025-12-22,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Presidential Suite,459.0,447.86,EUR,"3 Rooms, Private Pool, Butler Service, Spa, Rooftop Access",6,Limited
+2025-12-23,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Presidential Suite,459.0,454.07,EUR,"3 Rooms, Private Pool, Butler Service, Spa, Rooftop Access",6,Limited
+2025-12-24,Wednesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Presidential Suite,459.0,657.42,EUR,"3 Rooms, Private Pool, Butler Service, Spa, Rooftop Access",6,Limited
+2025-12-25,Thursday,Seaside Paradise Resort,"Dublin Bay, Ireland",Presidential Suite,459.0,662.23,EUR,"3 Rooms, Private Pool, Butler Service, Spa, Rooftop Access",6,Limited
+2025-12-26,Friday,Seaside Paradise Resort,"Dublin Bay, Ireland",Presidential Suite,459.0,833.28,EUR,"3 Rooms, Private Pool, Butler Service, Spa, Rooftop Access",6,Limited
+2025-12-27,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Presidential Suite,459.0,576.52,EUR,"3 Rooms, Private Pool, Butler Service, Spa, Rooftop Access",6,Limited
+2025-12-28,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Presidential Suite,459.0,467.71,EUR,"3 Rooms, Private Pool, Butler Service, Spa, Rooftop Access",6,Limited
+2025-12-29,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Presidential Suite,459.0,457.64,EUR,"3 Rooms, Private Pool, Butler Service, Spa, Rooftop Access",6,Limited
+2025-12-30,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Presidential Suite,459.0,478.3,EUR,"3 Rooms, Private Pool, Butler Service, Spa, Rooftop Access",6,Limited
+2025-12-20,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Honeymoon Suite,329.0,408.19,EUR,"King Bed, Ocean View Jacuzzi, Champagne Bar, Rose Petal Service",2,Available
+2025-12-21,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Honeymoon Suite,329.0,320.17,EUR,"King Bed, Ocean View Jacuzzi, Champagne Bar, Rose Petal Service",2,Available
+2025-12-22,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Honeymoon Suite,329.0,342.75,EUR,"King Bed, Ocean View Jacuzzi, Champagne Bar, Rose Petal Service",2,Available
+2025-12-23,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Honeymoon Suite,329.0,320.12,EUR,"King Bed, Ocean View Jacuzzi, Champagne Bar, Rose Petal Service",2,Available
+2025-12-24,Wednesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Honeymoon Suite,329.0,474.1,EUR,"King Bed, Ocean View Jacuzzi, Champagne Bar, Rose Petal Service",2,Available
+2025-12-25,Thursday,Seaside Paradise Resort,"Dublin Bay, Ireland",Honeymoon Suite,329.0,470.15,EUR,"King Bed, Ocean View Jacuzzi, Champagne Bar, Rose Petal Service",2,Available
+2025-12-26,Friday,Seaside Paradise Resort,"Dublin Bay, Ireland",Honeymoon Suite,329.0,570.36,EUR,"King Bed, Ocean View Jacuzzi, Champagne Bar, Rose Petal Service",2,Available
+2025-12-27,Saturday,Seaside Paradise Resort,"Dublin Bay, Ireland",Honeymoon Suite,329.0,402.32,EUR,"King Bed, Ocean View Jacuzzi, Champagne Bar, Rose Petal Service",2,Available
+2025-12-28,Sunday,Seaside Paradise Resort,"Dublin Bay, Ireland",Honeymoon Suite,329.0,314.62,EUR,"King Bed, Ocean View Jacuzzi, Champagne Bar, Rose Petal Service",2,Available
+2025-12-29,Monday,Seaside Paradise Resort,"Dublin Bay, Ireland",Honeymoon Suite,329.0,344.39,EUR,"King Bed, Ocean View Jacuzzi, Champagne Bar, Rose Petal Service",2,Available
+2025-12-30,Tuesday,Seaside Paradise Resort,"Dublin Bay, Ireland",Honeymoon Suite,329.0,325.18,EUR,"King Bed, Ocean View Jacuzzi, Champagne Bar, Rose Petal Service",2,Available
+2025-12-20,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Premium Mountain View,169.0,203.0,EUR,"King Bed, Stone Fireplace, Mountain View, Heated Floors, Premium Toiletries",2,Available
+2025-12-21,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Premium Mountain View,169.0,163.42,EUR,"King Bed, Stone Fireplace, Mountain View, Heated Floors, Premium Toiletries",2,Available
+2025-12-22,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Premium Mountain View,169.0,174.65,EUR,"King Bed, Stone Fireplace, Mountain View, Heated Floors, Premium Toiletries",2,Available
+2025-12-23,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Premium Mountain View,169.0,167.44,EUR,"King Bed, Stone Fireplace, Mountain View, Heated Floors, Premium Toiletries",2,Available
+2025-12-24,Wednesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Premium Mountain View,169.0,238.57,EUR,"King Bed, Stone Fireplace, Mountain View, Heated Floors, Premium Toiletries",2,Available
+2025-12-25,Thursday,Mountain View Lodge,"Wicklow Mountains, Ireland",Premium Mountain View,169.0,227.6,EUR,"King Bed, Stone Fireplace, Mountain View, Heated Floors, Premium Toiletries",2,Available
+2025-12-26,Friday,Mountain View Lodge,"Wicklow Mountains, Ireland",Premium Mountain View,169.0,288.62,EUR,"King Bed, Stone Fireplace, Mountain View, Heated Floors, Premium Toiletries",2,Available
+2025-12-27,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Premium Mountain View,169.0,207.91,EUR,"King Bed, Stone Fireplace, Mountain View, Heated Floors, Premium Toiletries",2,Available
+2025-12-28,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Premium Mountain View,169.0,175.81,EUR,"King Bed, Stone Fireplace, Mountain View, Heated Floors, Premium Toiletries",2,Available
+2025-12-29,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Premium Mountain View,169.0,162.41,EUR,"King Bed, Stone Fireplace, Mountain View, Heated Floors, Premium Toiletries",2,Available
+2025-12-30,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Premium Mountain View,169.0,165.09,EUR,"King Bed, Stone Fireplace, Mountain View, Heated Floors, Premium Toiletries",2,Available
+2025-12-20,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Luxury Suite,299.0,368.03,EUR,"Master Suite, Spa Bath, Private Terrace, Wine Collection, Sound System",3,Available
+2025-12-21,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Luxury Suite,299.0,291.39,EUR,"Master Suite, Spa Bath, Private Terrace, Wine Collection, Sound System",3,Available
+2025-12-22,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Luxury Suite,299.0,287.43,EUR,"Master Suite, Spa Bath, Private Terrace, Wine Collection, Sound System",3,Available
+2025-12-23,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Luxury Suite,299.0,289.16,EUR,"Master Suite, Spa Bath, Private Terrace, Wine Collection, Sound System",3,Available
+2025-12-24,Wednesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Luxury Suite,299.0,404.86,EUR,"Master Suite, Spa Bath, Private Terrace, Wine Collection, Sound System",3,Available
+2025-12-25,Thursday,Mountain View Lodge,"Wicklow Mountains, Ireland",Luxury Suite,299.0,399.82,EUR,"Master Suite, Spa Bath, Private Terrace, Wine Collection, Sound System",3,Available
+2025-12-26,Friday,Mountain View Lodge,"Wicklow Mountains, Ireland",Luxury Suite,299.0,508.0,EUR,"Master Suite, Spa Bath, Private Terrace, Wine Collection, Sound System",3,Available
+2025-12-27,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Luxury Suite,299.0,370.06,EUR,"Master Suite, Spa Bath, Private Terrace, Wine Collection, Sound System",3,Available
+2025-12-28,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Luxury Suite,299.0,313.92,EUR,"Master Suite, Spa Bath, Private Terrace, Wine Collection, Sound System",3,Available
+2025-12-29,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Luxury Suite,299.0,313.32,EUR,"Master Suite, Spa Bath, Private Terrace, Wine Collection, Sound System",3,Available
+2025-12-30,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Luxury Suite,299.0,292.25,EUR,"Master Suite, Spa Bath, Private Terrace, Wine Collection, Sound System",3,Available
+2025-12-20,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Cozy Standard,109.0,140.89,EUR,"Queen Bed, Workspace, High-Speed WiFi, Tea Station, Reading Nook",2,Available
+2025-12-21,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Cozy Standard,109.0,104.18,EUR,"Queen Bed, Workspace, High-Speed WiFi, Tea Station, Reading Nook",2,Available
+2025-12-22,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Cozy Standard,109.0,108.2,EUR,"Queen Bed, Workspace, High-Speed WiFi, Tea Station, Reading Nook",2,Available
+2025-12-23,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Cozy Standard,109.0,106.63,EUR,"Queen Bed, Workspace, High-Speed WiFi, Tea Station, Reading Nook",2,Available
+2025-12-24,Wednesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Cozy Standard,109.0,151.74,EUR,"Queen Bed, Workspace, High-Speed WiFi, Tea Station, Reading Nook",2,Available
+2025-12-25,Thursday,Mountain View Lodge,"Wicklow Mountains, Ireland",Cozy Standard,109.0,145.64,EUR,"Queen Bed, Workspace, High-Speed WiFi, Tea Station, Reading Nook",2,Available
+2025-12-26,Friday,Mountain View Lodge,"Wicklow Mountains, Ireland",Cozy Standard,109.0,195.43,EUR,"Queen Bed, Workspace, High-Speed WiFi, Tea Station, Reading Nook",2,Available
+2025-12-27,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Cozy Standard,109.0,139.77,EUR,"Queen Bed, Workspace, High-Speed WiFi, Tea Station, Reading Nook",2,Available
+2025-12-28,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Cozy Standard,109.0,110.96,EUR,"Queen Bed, Workspace, High-Speed WiFi, Tea Station, Reading Nook",2,Available
+2025-12-29,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Cozy Standard,109.0,111.75,EUR,"Queen Bed, Workspace, High-Speed WiFi, Tea Station, Reading Nook",2,Available
+2025-12-30,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Cozy Standard,109.0,107.16,EUR,"Queen Bed, Workspace, High-Speed WiFi, Tea Station, Reading Nook",2,Available
+2025-12-20,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Alpine Family Room,239.0,296.36,EUR,"Bunk Beds, 1 Double Bed, Living Space, Game Console, Mountain Bikes",6,Limited
+2025-12-21,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Alpine Family Room,239.0,233.34,EUR,"Bunk Beds, 1 Double Bed, Living Space, Game Console, Mountain Bikes",6,Limited
+2025-12-22,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Alpine Family Room,239.0,236.54,EUR,"Bunk Beds, 1 Double Bed, Living Space, Game Console, Mountain Bikes",6,Limited
+2025-12-23,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Alpine Family Room,239.0,229.82,EUR,"Bunk Beds, 1 Double Bed, Living Space, Game Console, Mountain Bikes",6,Limited
+2025-12-24,Wednesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Alpine Family Room,239.0,342.44,EUR,"Bunk Beds, 1 Double Bed, Living Space, Game Console, Mountain Bikes",6,Limited
+2025-12-25,Thursday,Mountain View Lodge,"Wicklow Mountains, Ireland",Alpine Family Room,239.0,331.23,EUR,"Bunk Beds, 1 Double Bed, Living Space, Game Console, Mountain Bikes",6,Limited
+2025-12-26,Friday,Mountain View Lodge,"Wicklow Mountains, Ireland",Alpine Family Room,239.0,407.01,EUR,"Bunk Beds, 1 Double Bed, Living Space, Game Console, Mountain Bikes",6,Limited
+2025-12-27,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Alpine Family Room,239.0,300.23,EUR,"Bunk Beds, 1 Double Bed, Living Space, Game Console, Mountain Bikes",6,Limited
+2025-12-28,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Alpine Family Room,239.0,249.47,EUR,"Bunk Beds, 1 Double Bed, Living Space, Game Console, Mountain Bikes",6,Limited
+2025-12-29,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Alpine Family Room,239.0,241.85,EUR,"Bunk Beds, 1 Double Bed, Living Space, Game Console, Mountain Bikes",6,Limited
+2025-12-30,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Alpine Family Room,239.0,235.03,EUR,"Bunk Beds, 1 Double Bed, Living Space, Game Console, Mountain Bikes",6,Limited
+2025-12-20,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Penthouse Suite,499.0,642.98,EUR,"Entire Floor, Private Chef, Panoramic Views, Cinema Room, Gym",8,Limited
+2025-12-21,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Penthouse Suite,499.0,511.78,EUR,"Entire Floor, Private Chef, Panoramic Views, Cinema Room, Gym",8,Limited
+2025-12-22,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Penthouse Suite,499.0,507.02,EUR,"Entire Floor, Private Chef, Panoramic Views, Cinema Room, Gym",8,Limited
+2025-12-23,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Penthouse Suite,499.0,505.86,EUR,"Entire Floor, Private Chef, Panoramic Views, Cinema Room, Gym",8,Limited
+2025-12-24,Wednesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Penthouse Suite,499.0,698.81,EUR,"Entire Floor, Private Chef, Panoramic Views, Cinema Room, Gym",8,Limited
+2025-12-25,Thursday,Mountain View Lodge,"Wicklow Mountains, Ireland",Penthouse Suite,499.0,677.91,EUR,"Entire Floor, Private Chef, Panoramic Views, Cinema Room, Gym",8,Limited
+2025-12-26,Friday,Mountain View Lodge,"Wicklow Mountains, Ireland",Penthouse Suite,499.0,864.35,EUR,"Entire Floor, Private Chef, Panoramic Views, Cinema Room, Gym",8,Limited
+2025-12-27,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Penthouse Suite,499.0,647.09,EUR,"Entire Floor, Private Chef, Panoramic Views, Cinema Room, Gym",8,Limited
+2025-12-28,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Penthouse Suite,499.0,501.16,EUR,"Entire Floor, Private Chef, Panoramic Views, Cinema Room, Gym",8,Limited
+2025-12-29,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Penthouse Suite,499.0,491.32,EUR,"Entire Floor, Private Chef, Panoramic Views, Cinema Room, Gym",8,Limited
+2025-12-30,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Penthouse Suite,499.0,508.87,EUR,"Entire Floor, Private Chef, Panoramic Views, Cinema Room, Gym",8,Limited
+2025-12-20,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Romantic Cabin,259.0,328.84,EUR,"Log Cabin Style, Hot Tub, Fireplace, Stargazing Deck, Privacy",2,Available
+2025-12-21,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Romantic Cabin,259.0,265.91,EUR,"Log Cabin Style, Hot Tub, Fireplace, Stargazing Deck, Privacy",2,Available
+2025-12-22,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Romantic Cabin,259.0,249.1,EUR,"Log Cabin Style, Hot Tub, Fireplace, Stargazing Deck, Privacy",2,Available
+2025-12-23,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Romantic Cabin,259.0,265.77,EUR,"Log Cabin Style, Hot Tub, Fireplace, Stargazing Deck, Privacy",2,Available
+2025-12-24,Wednesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Romantic Cabin,259.0,357.1,EUR,"Log Cabin Style, Hot Tub, Fireplace, Stargazing Deck, Privacy",2,Available
+2025-12-25,Thursday,Mountain View Lodge,"Wicklow Mountains, Ireland",Romantic Cabin,259.0,347.28,EUR,"Log Cabin Style, Hot Tub, Fireplace, Stargazing Deck, Privacy",2,Available
+2025-12-26,Friday,Mountain View Lodge,"Wicklow Mountains, Ireland",Romantic Cabin,259.0,456.11,EUR,"Log Cabin Style, Hot Tub, Fireplace, Stargazing Deck, Privacy",2,Available
+2025-12-27,Saturday,Mountain View Lodge,"Wicklow Mountains, Ireland",Romantic Cabin,259.0,317.82,EUR,"Log Cabin Style, Hot Tub, Fireplace, Stargazing Deck, Privacy",2,Available
+2025-12-28,Sunday,Mountain View Lodge,"Wicklow Mountains, Ireland",Romantic Cabin,259.0,268.23,EUR,"Log Cabin Style, Hot Tub, Fireplace, Stargazing Deck, Privacy",2,Available
+2025-12-29,Monday,Mountain View Lodge,"Wicklow Mountains, Ireland",Romantic Cabin,259.0,253.75,EUR,"Log Cabin Style, Hot Tub, Fireplace, Stargazing Deck, Privacy",2,Available
+2025-12-30,Tuesday,Mountain View Lodge,"Wicklow Mountains, Ireland",Romantic Cabin,259.0,247.81,EUR,"Log Cabin Style, Hot Tub, Fireplace, Stargazing Deck, Privacy",2,Available
